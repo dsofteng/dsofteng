@@ -1,8 +1,8 @@
-<h2 align="left">Hey 👋 What's up? My name is Dayana Solís a passionated programmer and sotware engineer</h2>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Dayana and I'm a programmer and software engineer really interested in Quality Software, from Cuba</p>
 
 ###
 
