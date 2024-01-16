@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dayana and I'm a programmer a Software Engineer really interested in Quality Software, from Cuba</p>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
@@ -64,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
