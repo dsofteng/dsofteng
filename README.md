@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2020<br>📚 I'm currently become in fullstack developer <br>🎯 Goals: Enhancing my english skills<br>🎲 Fun fact: I ever wanna learn more never is enough</p>
+<p align="left">✨ Programming since 2020<br>📚 I'm currently becoming in a fullstack developer <br>🎯 Goals: Enhancing my english skills<br>🎲 Fun fact: I ever wanna learn more never is enough</p>
 
 ###
 
